@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium'; /*, 'Arial Narrow', Arial, sans-serif;-*/
+}
+#name{
+    background-color: hotpink;
+    font-family: 'Trebuchet MS';
+    color: silver;
+    text-align: center;
+}
