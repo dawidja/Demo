@@ -11,7 +11,7 @@
 		 revideret til IoS af Rico Ghanem
     </author>
 
-    <content src="HTML(demo).html" />
+    <content src="Index.html" />
 	<!--
 	<plugin name="cordova-plugin-ble-central" spec="^1.1.4">
         <variable name="BLUETOOTH_USAGE_DESCRIPTION" value="Bluetooth development purposes" />
